@@ -1,6 +1,6 @@
 # RAG Frontend
 
-A sleek, modern React frontend for a Retrieval-Augmented Generation (RAG) 
+A sleek, modern React frontend for a Retrieval-Augmented Generation (RAG) appliacations.
 
 ## Features
 
