@@ -2,7 +2,6 @@
 
 A sleek, modern React frontend for a Retrieval-Augmented Generation (RAG) appliacations.
 
-## Features
 
 - Clean, responsive UI with Tailwind CSS
 - Text input for queries
